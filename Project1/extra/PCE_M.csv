@@ -1,0 +1,21 @@
+"Table 2.8.5. Personal Consumption Expenditures by Major Type of Product, Monthly",,,,,,,,,,,,,,,,,,,
+[Billions of dollars; seasonally adjusted at annual rates] ,,,,,,,,,,,,,,,,,,,
+Bureau of Economic Analysis ,,,,,,,,,,,,,,,,,,,
+"Last Revised on: July 31, 2020 - Next Release Date August 28, 2020",,,,,,,,,,,,,,,,,,,
+Line,,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2020,2020,2020,2020,2020,2020
+Line,,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,FEB,MAR,APR,MAY,JUN
+1,        Personal consumption expenditures (PCE),14223.7,14236.1,14370,14443.2,14493,14555.8,14611.9,14650.9,14673.2,14728.5,14752.8,14796.3,14880.5,14877.4,13878.5,12088.8,13113.5,13851.2
+2,Goods,4400.4,4381.2,4463.9,4496,4521,4536.1,4553.6,4558.9,4548.4,4562.5,4560,4564.6,4591.8,4568.2,4498.7,3888.6,4437.8,4723.5
+3,    Durable goods,1489.3,1476.9,1517.2,1520.5,1539.6,1547.8,1546.7,1550.8,1561,1552.2,1555.8,1554.3,1567.9,1552.5,1369,1198.6,1544.6,1679.5
+4,    Nondurable goods,2911,2904.3,2946.8,2975.4,2981.4,2988.3,3006.9,3008.1,2987.4,3010.3,3004.1,3010.3,3024,3015.7,3129.7,2690,2893.2,3044
+5,Services,9823.3,9855,9906,9947.2,9972,10019.7,10058.3,10091.9,10124.8,10165.9,10192.8,10231.7,10288.6,10309.2,9379.8,8200.2,8675.7,9127.6
+,Addenda:,,,,,,,,,,,,,,,,,,
+6,    PCE excluding food and energy,12649.7,12674.2,12774.8,12824.4,12883.2,12954.4,12988.8,13033.1,13070,13114.9,13135.8,13187.8,13281.2,13272.4,12118.1,10559.2,11523.5,12233.5
+7,    Food1,1018.9,1000.3,1015.9,1019.7,1022.1,1028.3,1037.3,1037.8,1030.4,1032.1,1032.6,1032.6,1032.7,1033.3,1272.7,1115.6,1146.8,1141.2
+8,    Energy goods and services2,555,561.6,579.3,599.1,587.7,573.1,585.8,580,572.8,581.5,584.3,575.9,566.5,571.7,487.7,414,443.2,476.5
+9,    Market-based PCE3,12353.4,12373.9,12492.3,12556,12603.8,12642.5,12698,12728.8,12750.1,12794.4,12815.6,12855.6,12915.1,12927.1,11850.7,10016.8,11142,11914
+10,    Market-based PCE excluding food and energy3,10779.8,10812.3,10897.6,10937.7,10994.4,11041.5,11075.3,11111.5,11147.4,11181.3,11199,11247.6,11316.3,11322.6,10090.8,8487.7,9552.5,10296.8
+Legend / Footnotes:,,,,,,,,,,,,,,,,,,,
+"1. Food consists of food and beverages purchased for off-premises consumption; food services, which include purchased meals and beverages, are not classified as food.",,,,,,,,,,,,,,,,,,,
+2. Consists of gasoline and other energy goods and of electricity and gas services.,,,,,,,,,,,,,,,,,,,
+"3. Market-based PCE is a supplemental measure that is based on household expenditures for which there are observable price measures. It excludes most imputed transactions (for example, financial services furnished without payment) and the final consumption expenditures of nonprofit institutions serving households.",,,,,,,,,,,,,,,,,,,
